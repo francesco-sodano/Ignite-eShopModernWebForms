@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.8
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopLegacyWebForms", "src\eShopLegacyWebForms\eShopLegacyWebForms.csproj", "{4416714A-9BB8-480B-95B3-C2599598E3EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopModernWebForms", "src\eShopLegacyWebForms\eShopModernWebForms.csproj", "{4416714A-9BB8-480B-95B3-C2599598E3EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
